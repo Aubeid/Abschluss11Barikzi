@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b417b3dc-b885-4736-9989-6d9f68288c5c" name="Changes" comment="Freitag">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/src/Admin Account.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Admin Account.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/src/Kunden Account.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Kunden Account.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/src/Store.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Store.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/src/Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Test.kt" afterDir="false" />
-    </list>
+    <list default="true" id="b417b3dc-b885-4736-9989-6d9f68288c5c" name="Changes" comment="Dienstag" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,12 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695390905029</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dienstag">
+      <option name="closed" value="true" />
+      <created>1695717214616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695717214616</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Freitag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Freitag" />
+    <MESSAGE value="Dienstag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dienstag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
