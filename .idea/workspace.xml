@@ -4,13 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b417b3dc-b885-4736-9989-6d9f68288c5c" name="Changes" comment="Freitag">
+    <list default="true" id="b417b3dc-b885-4736-9989-6d9f68288c5c" name="Changes" comment="Dienstag">
+      <change afterPath="$PROJECT_DIR$/Code/src/Alle Klassen.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/Account.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Account.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/src/Admin Account.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Admin Account.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/src/Kunden Account.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Kunden Account.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/Produkt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Produkt.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/Schuhe.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Schuhe.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/src/Store.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Store.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/TV.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/TV.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/src/Test.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/Test.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Code/META-INF/Code.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Code/META-INF/Code.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +27,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="editable-svg" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4e0949b5-a917-48bc-a167-ab3c22b19208" />
+        <option name="url" value="https://github.com/Aubeid/Abschluss11Barikzi.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,17 +55,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/aubeidbarikzi/Documents/Abschluss11Barikzi/Code/src&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "19",
+    "last_opened_file_path": "/Users/aubeidbarikzi/Documents/Abschluss11Barikzi",
+    "settings.editor.selected.configurable": "preferences.general"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.." />
       <recent name="$PROJECT_DIR$/Code/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -91,30 +113,58 @@
       <option name="project" value="LOCAL" />
       <updated>1695390905029</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dienstag">
+      <option name="closed" value="true" />
+      <created>1695717214616</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695717214616</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dienstag">
+      <option name="closed" value="true" />
+      <created>1695719255141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695719255141</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Freitag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Freitag" />
+    <MESSAGE value="Dienstag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dienstag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/Code/src/Store.kt</url>
-          <line>61</line>
+          <line>156</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/Code/src/Main.kt</url>
-          <line>22</line>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/Code/src/Test.kt</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/Code/src/Test.kt</url>
-          <line>89</line>
-          <option name="timeStamp" value="5" />
+          <url>file://$PROJECT_DIR$/Code/src/Main.kt</url>
+          <line>37</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
