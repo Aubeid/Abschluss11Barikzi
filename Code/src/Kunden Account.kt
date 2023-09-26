@@ -5,7 +5,6 @@ class KundenAccount(username: String, password: String) : Account(username, pass
     }
 
 
-
     fun kundenRegist() {
         println("Bitte geben sie ihr Alter ein um zu überprüfen ab sie Alt genug sind für unseren Shop ")
         var minAge = readln().toInt()
@@ -45,21 +44,24 @@ class KundenAccount(username: String, password: String) : Account(username, pass
 
     }
 
-}
+    fun kundenLogIn() {
+        println("Bitte gib deinen Benutzernamen und dein Passwort ein")
+        println("Benutzername: ")
+        var benutzerName = readln()
+        println("Password")
+        var benutzerPassword = readln()
 
-
-fun kundenLogIn(){
-    println("Bitte gib deinen Benutzernamen und dein Passwort ein")
-    println("Benutzername: ")
-    var benutzerName = readln()
-    println("Password")
-    var benutzerPassword = readln()
-    if (store.kundenListe.any { it.username == benutzerName && it.password == benutzerPassword }){
-        store.einkauf()
-    }else{
-        println("Da ist was falsch gelaufen versuch es nochmal")
-        kundenLogIn()
+        if (store.kundenListe.any { it.username == benutzerName && it.password == benutzerPassword }) {
+            store.einkauf()
+        } else {
+            println("Da ist was falsch gelaufen versuch es nochmal")
+            kundenLogIn()
+        }
     }
+
 }
+
+
+
 
 
