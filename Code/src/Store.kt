@@ -55,7 +55,7 @@ open class Store() {
     fun exit() {
         (exitProcess(0))
     }
-
+    //ASS
 
     /**
      *Hauptmenü der Anwendung.
