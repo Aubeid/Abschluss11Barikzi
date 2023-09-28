@@ -56,6 +56,7 @@ open class Store() {
         (exitProcess(0))
     }
 
+
     /**
      *Hauptmenü der Anwendung.
      *
@@ -130,7 +131,7 @@ open class Store() {
 
             }
         }
-    }//
+    }
 
     /**
      * Einkaufsmenü, das es dem Benutzer ermöglicht, Produkte auszuwählen und in den Einkaufswagen zu legen.
